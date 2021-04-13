@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeAdventure.Integration", "TheMazeAdventure.Integration\TheMazeAdventure.Integration.csproj", "{6BE5A4DB-4ED9-4FA3-AD38-54576200AF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeAdventure.DataContracts", "TheMazeAdventure.DataContracts\TheMazeAdventure.DataContracts.csproj", "{42EB8AD7-D799-4FAD-9595-7532F017B1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeAdventure.Utils", "TheMazeAdventure.Utils\TheMazeAdventure.Utils.csproj", "{F9570168-0130-4BCA-80CC-E39B7C33D02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeAdventure.Simulator", "TheMazeAdventure.Simulator\TheMazeAdventure.Simulator.csproj", "{24E847DC-69D2-42DD-B53E-FBE7055DDB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeAdventure.UnitTests", "TheMazeAdventure.UnitTests\TheMazeAdventure.UnitTests.csproj", "{42396CA4-7334-49F8-8437-BB0D16064072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE5A4DB-4ED9-4FA3-AD38-54576200AF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE5A4DB-4ED9-4FA3-AD38-54576200AF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE5A4DB-4ED9-4FA3-AD38-54576200AF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE5A4DB-4ED9-4FA3-AD38-54576200AF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EB8AD7-D799-4FAD-9595-7532F017B1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EB8AD7-D799-4FAD-9595-7532F017B1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EB8AD7-D799-4FAD-9595-7532F017B1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EB8AD7-D799-4FAD-9595-7532F017B1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9570168-0130-4BCA-80CC-E39B7C33D02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9570168-0130-4BCA-80CC-E39B7C33D02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9570168-0130-4BCA-80CC-E39B7C33D02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9570168-0130-4BCA-80CC-E39B7C33D02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E847DC-69D2-42DD-B53E-FBE7055DDB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E847DC-69D2-42DD-B53E-FBE7055DDB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E847DC-69D2-42DD-B53E-FBE7055DDB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E847DC-69D2-42DD-B53E-FBE7055DDB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42396CA4-7334-49F8-8437-BB0D16064072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42396CA4-7334-49F8-8437-BB0D16064072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42396CA4-7334-49F8-8437-BB0D16064072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42396CA4-7334-49F8-8437-BB0D16064072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940D7A80-E50D-40BD-9EDD-07FC09B9C6A9}
+	EndGlobalSection
+EndGlobal
